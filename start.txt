@@ -1,1 +1,2 @@
-A quick start of the tutorial on using git like a pro
+A quick start of the tutorial on using git
+
